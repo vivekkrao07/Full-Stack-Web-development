@@ -1,0 +1,41 @@
+{
+  "searches": [
+    {
+      "ingredients": "wine",
+      "date_time": "12/10/2025, 11:24:21 pm"
+    },
+    {
+      "ingredients": "wine",
+      "date_time": "12/10/2025, 11:24:29 pm"
+    },
+    {
+      "ingredients": "cheese",
+      "date_time": "12/10/2025, 11:24:44 pm"
+    },
+    {
+      "ingredients": "cheese",
+      "date_time": "12/10/2025, 11:32:31 pm"
+    },
+    {
+      "ingredients": "chicken",
+      "date_time": "12/10/2025, 11:32:41 pm"
+    },
+    {
+      "ingredients": "chicken",
+      "date_time": "12/10/2025, 11:41:30 pm"
+    },
+    {
+      "ingredients": "tomato",
+      "date_time": "12/10/2025, 11:41:41 pm"
+    },
+    {
+      "ingredients": "cheese",
+      "date_time": "12/10/2025, 11:44:05 pm"
+    },
+    {
+      "ingredients": "wine",
+      "date_time": "12/10/2025, 11:44:29 pm"
+    }
+  ],
+  "favorites": []
+}
